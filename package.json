@@ -5,7 +5,7 @@
   "homepage": "https://github.com/vasuldutschak/sister_bro",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /sister_bro/"
+    "build": "parcel build .src/*.html --public-url /sister_bro/"
   },
   "repository": {
     "type": "git",
